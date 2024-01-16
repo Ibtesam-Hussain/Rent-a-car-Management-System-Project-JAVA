@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Ibtesam-Hussain
-- 👀 I’m interested in alot of programming stuff...
-- 🌱 I’m currently learning Computer Science @ FAST NUCES, Karachi...
-- 📫 How to reach me ...1) Email is attached, 2) You can also conatact me on my social media
-- Have a good coding day :)
+- This project is done on java completely using OOP (Object oreinted Programming) techniques.
+- In this project you will have multiple options to use this in commercial sector as well as in school/college projects
+- You can store multiple data such as when the vehicle was booked, what was the owner name, what was the regostration 
+  number of the vehicle, what type of vehicle is it and what was the name of person who is going to rent and every other thing
+- You can track all records of your vehicle as well as others vehicle in every possible manner
 
-<!---
-Ibtesam-Hussain/Ibtesam-Hussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Thankyou**
